@@ -1,0 +1,12 @@
+albumentations==2.0.8
+matplotlib==3.10.6
+numpy==2.3.3
+Pillow==11.3.0
+scipy==1.16.2
+seaborn==0.13.2
+swanlab==0.6.10
+torch==2.6.0+cu124
+torchinfo==1.8.0
+torchvision==0.21.0+cu124
+tqdm==4.67.1
+ultralytics==8.3.158

@@ -1,0 +1,10 @@
+background/*
+datasets/*
+swanlog/*
+.vscode/*
+__pycache__/*
+*.pth
+test/
+yolo11*.pt
+Hand/train/
+Hand/train2/
