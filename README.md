@@ -161,7 +161,7 @@ python hand2yolo.py
 
 ## 许可证
 
-本项目基于 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+本项目基于 APACHE2.0 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
 ## 致谢
 
